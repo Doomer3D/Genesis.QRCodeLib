@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>QR Code Encoder-Decoder</Description>
+    <Authors>Uzi Granot;Копытов Дмитрий</Authors>
+    <TargetFrameworks>net20;net35;net40;net45;netstandard1.3;netstandard2.0</TargetFrameworks>
+    <AssemblyName>Genesis.QRCodeLib</AssemblyName>
+    <PackageId>Genesis.QRCodeLib</PackageId>
+    <PackageTags>QRCode;encoder;decoder</PackageTags>
+    <PackageProjectUrl>https://github.com/Doomer3D/Genesis.QRCodeLib</PackageProjectUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/Doomer3D/Genesis.QRCodeLib/master/LICENSE</PackageLicenseUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/Doomer3D/Genesis.QRCodeLib</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
